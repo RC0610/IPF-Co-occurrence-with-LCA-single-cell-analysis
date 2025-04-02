@@ -1,0 +1,442 @@
+=== LCA QUALITY CONTROL REPORT ===
+
+Generated: 2025-03-28 02:56:35 CST
+
+Initial cells: 68974
+
+Retained cells: 66234（96%）
+
+
+=== QC THRESHOLDS APPLIED ===
+
+
+
+=== FILTERED CELLS BY CRITERIA ===
+
+
+
+=== SAMPLE DISTRIBUTION ===
+
+
+
+=== ADDITIONAL NOTES ===
+1. Thresholds validated via QC distribution plots (see PDF)
+2. Batch correction performed via Harmony (theta=2, 50 PCs)
+3. Cell cycle scores (S, G2M) regressed in scaling step
+4. QC plots saved as QC_metrics_[before/after]_filtering.pdf
+=== LCA QUALITY CONTROL REPORT ===
+
+Generated: 2025-03-28 02:56:35 CST
+
+Initial cells: 68974
+
+Retained cells: 66234（96%）
+
+
+=== QC THRESHOLDS APPLIED ===
+
+
+
+=== FILTERED CELLS BY CRITERIA ===
+
+
+
+=== SAMPLE DISTRIBUTION ===
+
+
+
+=== ADDITIONAL NOTES ===
+1. Thresholds validated via QC distribution plots (see PDF)
+2. Batch correction performed via Harmony (theta=2, 50 PCs)
+3. Cell cycle scores (S, G2M) regressed in scaling step
+4. QC plots saved as QC_metrics_[before/after]_filtering.pdf
+=== LCA QUALITY CONTROL REPORT ===
+
+Generated: 2025-03-28 02:56:35 CST
+
+Initial cells: 68974
+
+Retained cells: 66234（96%）
+
+
+=== QC THRESHOLDS APPLIED ===
+Table: Applied QC Thresholds
+
+
+=== FILTERED CELLS BY CRITERIA ===
+|   Filter Reason   | Number of Cells Removed |
+
+
+=== SAMPLE DISTRIBUTION ===
+|Sample ID | Cells After QC|
+
+
+=== ADDITIONAL NOTES ===
+1. Thresholds validated via QC distribution plots (see PDF)
+2. Batch correction performed via Harmony (theta=2, 50 PCs)
+3. Cell cycle scores (S, G2M) regressed in scaling step
+4. QC plots saved as QC_metrics_[before/after]_filtering.pdf
+=== LCA QUALITY CONTROL REPORT ===
+
+Generated: 2025-03-28 02:56:35 CST
+
+Initial cells: 68974
+
+Retained cells: 66234（96%）
+
+
+=== QC THRESHOLDS APPLIED ===
+
+
+
+=== FILTERED CELLS BY CRITERIA ===
+|:-----------------:|:-----------------------:|
+
+
+=== SAMPLE DISTRIBUTION ===
+|:---------|--------------:|
+
+
+=== ADDITIONAL NOTES ===
+1. Thresholds validated via QC distribution plots (see PDF)
+2. Batch correction performed via Harmony (theta=2, 50 PCs)
+3. Cell cycle scores (S, G2M) regressed in scaling step
+4. QC plots saved as QC_metrics_[before/after]_filtering.pdf
+=== LCA QUALITY CONTROL REPORT ===
+
+Generated: 2025-03-28 02:56:35 CST
+
+Initial cells: 68974
+
+Retained cells: 66234（96%）
+
+
+=== QC THRESHOLDS APPLIED ===
+|           Parameter           | Min |  Max  |                                Rationale                                 |
+
+
+=== FILTERED CELLS BY CRITERIA ===
+| Low nFeature_RNA  |            0            |
+
+
+=== SAMPLE DISTRIBUTION ===
+|sample1   |           7702|
+
+
+=== ADDITIONAL NOTES ===
+1. Thresholds validated via QC distribution plots (see PDF)
+2. Batch correction performed via Harmony (theta=2, 50 PCs)
+3. Cell cycle scores (S, G2M) regressed in scaling step
+4. QC plots saved as QC_metrics_[before/after]_filtering.pdf
+=== LCA QUALITY CONTROL REPORT ===
+
+Generated: 2025-03-28 02:56:35 CST
+
+Initial cells: 68974
+
+Retained cells: 66234（96%）
+
+
+=== QC THRESHOLDS APPLIED ===
+|:-----------------------------:|:---:|:-----:|:------------------------------------------------------------------------:|
+
+
+=== FILTERED CELLS BY CRITERIA ===
+| High nFeature_RNA |           113           |
+
+
+=== SAMPLE DISTRIBUTION ===
+|sample10  |           5876|
+
+
+=== ADDITIONAL NOTES ===
+1. Thresholds validated via QC distribution plots (see PDF)
+2. Batch correction performed via Harmony (theta=2, 50 PCs)
+3. Cell cycle scores (S, G2M) regressed in scaling step
+4. QC plots saved as QC_metrics_[before/after]_filtering.pdf
+=== LCA QUALITY CONTROL REPORT ===
+
+Generated: 2025-03-28 02:56:35 CST
+
+Initial cells: 68974
+
+Retained cells: 66234（96%）
+
+
+=== QC THRESHOLDS APPLIED ===
+| Genes per Cell (nFeature_RNA) | 300 | 9e+03 | 300–7500: Filters empty droplets or stressed cells (Satija Lab; top 99%) |
+
+
+=== FILTERED CELLS BY CRITERIA ===
+|  Low nCount_RNA   |          3373           |
+
+
+=== SAMPLE DISTRIBUTION ===
+|sample11  |           2514|
+
+
+=== ADDITIONAL NOTES ===
+1. Thresholds validated via QC distribution plots (see PDF)
+2. Batch correction performed via Harmony (theta=2, 50 PCs)
+3. Cell cycle scores (S, G2M) regressed in scaling step
+4. QC plots saved as QC_metrics_[before/after]_filtering.pdf
+=== LCA QUALITY CONTROL REPORT ===
+
+Generated: 2025-03-28 02:56:35 CST
+
+Initial cells: 68974
+
+Retained cells: 66234（96%）
+
+
+=== QC THRESHOLDS APPLIED ===
+|  UMIs per Cell (nCount_RNA)   | 500 | 2e+05 | 500–50000: Ensures minimum sequencing depth; removes multiplets (>99.5%) |
+
+
+=== FILTERED CELLS BY CRITERIA ===
+|  High nCount_RNA  |            3            |
+
+
+=== SAMPLE DISTRIBUTION ===
+|sample12  |          11379|
+
+
+=== ADDITIONAL NOTES ===
+1. Thresholds validated via QC distribution plots (see PDF)
+2. Batch correction performed via Harmony (theta=2, 50 PCs)
+3. Cell cycle scores (S, G2M) regressed in scaling step
+4. QC plots saved as QC_metrics_[before/after]_filtering.pdf
+=== LCA QUALITY CONTROL REPORT ===
+
+Generated: 2025-03-28 02:56:35 CST
+
+Initial cells: 68974
+
+Retained cells: 66234（96%）
+
+
+=== QC THRESHOLDS APPLIED ===
+|   Mitochondrial Content (%)   | NA  | 2e+01 |       <20%: High mitochondrial % suggests damaged/apoptotic cells        |
+
+
+=== FILTERED CELLS BY CRITERIA ===
+|     High MT%      |          2522           |
+
+
+=== SAMPLE DISTRIBUTION ===
+|sample13  |           5344|
+
+
+=== ADDITIONAL NOTES ===
+1. Thresholds validated via QC distribution plots (see PDF)
+2. Batch correction performed via Harmony (theta=2, 50 PCs)
+3. Cell cycle scores (S, G2M) regressed in scaling step
+4. QC plots saved as QC_metrics_[before/after]_filtering.pdf
+=== LCA QUALITY CONTROL REPORT ===
+
+Generated: 2025-03-28 02:56:35 CST
+
+Initial cells: 68974
+
+Retained cells: 66234（96%）
+
+
+=== QC THRESHOLDS APPLIED ===
+|    Hemoglobin Content (%)     | NA  | 5e+00 |   <5%: High HB% may indicate erythrocyte contamination (PMID:26216973)   |
+
+
+=== FILTERED CELLS BY CRITERIA ===
+|     High HB%      |           11            |
+
+
+=== SAMPLE DISTRIBUTION ===
+|sample2   |           9524|
+
+
+=== ADDITIONAL NOTES ===
+1. Thresholds validated via QC distribution plots (see PDF)
+2. Batch correction performed via Harmony (theta=2, 50 PCs)
+3. Cell cycle scores (S, G2M) regressed in scaling step
+4. QC plots saved as QC_metrics_[before/after]_filtering.pdf
+=== LCA QUALITY CONTROL REPORT ===
+
+Generated: 2025-03-28 02:56:35 CST
+
+Initial cells: 68974
+
+Retained cells: 66234（96%）
+
+
+=== QC THRESHOLDS APPLIED ===
+
+
+
+=== FILTERED CELLS BY CRITERIA ===
+
+
+
+=== SAMPLE DISTRIBUTION ===
+|sample3   |           1911|
+
+
+=== ADDITIONAL NOTES ===
+1. Thresholds validated via QC distribution plots (see PDF)
+2. Batch correction performed via Harmony (theta=2, 50 PCs)
+3. Cell cycle scores (S, G2M) regressed in scaling step
+4. QC plots saved as QC_metrics_[before/after]_filtering.pdf
+=== LCA QUALITY CONTROL REPORT ===
+
+Generated: 2025-03-28 02:56:35 CST
+
+Initial cells: 68974
+
+Retained cells: 66234（96%）
+
+
+=== QC THRESHOLDS APPLIED ===
+
+
+
+=== FILTERED CELLS BY CRITERIA ===
+
+
+
+=== SAMPLE DISTRIBUTION ===
+|sample4   |           2276|
+
+
+=== ADDITIONAL NOTES ===
+1. Thresholds validated via QC distribution plots (see PDF)
+2. Batch correction performed via Harmony (theta=2, 50 PCs)
+3. Cell cycle scores (S, G2M) regressed in scaling step
+4. QC plots saved as QC_metrics_[before/after]_filtering.pdf
+=== LCA QUALITY CONTROL REPORT ===
+
+Generated: 2025-03-28 02:56:35 CST
+
+Initial cells: 68974
+
+Retained cells: 66234（96%）
+
+
+=== QC THRESHOLDS APPLIED ===
+Table: Applied QC Thresholds
+
+
+=== FILTERED CELLS BY CRITERIA ===
+|   Filter Reason   | Number of Cells Removed |
+
+
+=== SAMPLE DISTRIBUTION ===
+|sample5   |           5973|
+
+
+=== ADDITIONAL NOTES ===
+1. Thresholds validated via QC distribution plots (see PDF)
+2. Batch correction performed via Harmony (theta=2, 50 PCs)
+3. Cell cycle scores (S, G2M) regressed in scaling step
+4. QC plots saved as QC_metrics_[before/after]_filtering.pdf
+=== LCA QUALITY CONTROL REPORT ===
+
+Generated: 2025-03-28 02:56:35 CST
+
+Initial cells: 68974
+
+Retained cells: 66234（96%）
+
+
+=== QC THRESHOLDS APPLIED ===
+
+
+
+=== FILTERED CELLS BY CRITERIA ===
+|:-----------------:|:-----------------------:|
+
+
+=== SAMPLE DISTRIBUTION ===
+|sample6   |           3131|
+
+
+=== ADDITIONAL NOTES ===
+1. Thresholds validated via QC distribution plots (see PDF)
+2. Batch correction performed via Harmony (theta=2, 50 PCs)
+3. Cell cycle scores (S, G2M) regressed in scaling step
+4. QC plots saved as QC_metrics_[before/after]_filtering.pdf
+=== LCA QUALITY CONTROL REPORT ===
+
+Generated: 2025-03-28 02:56:35 CST
+
+Initial cells: 68974
+
+Retained cells: 66234（96%）
+
+
+=== QC THRESHOLDS APPLIED ===
+|           Parameter           | Min |  Max  |                                Rationale                                 |
+
+
+=== FILTERED CELLS BY CRITERIA ===
+| Low nFeature_RNA  |            0            |
+
+
+=== SAMPLE DISTRIBUTION ===
+|sample7   |           2394|
+
+
+=== ADDITIONAL NOTES ===
+1. Thresholds validated via QC distribution plots (see PDF)
+2. Batch correction performed via Harmony (theta=2, 50 PCs)
+3. Cell cycle scores (S, G2M) regressed in scaling step
+4. QC plots saved as QC_metrics_[before/after]_filtering.pdf
+=== LCA QUALITY CONTROL REPORT ===
+
+Generated: 2025-03-28 02:56:35 CST
+
+Initial cells: 68974
+
+Retained cells: 66234（96%）
+
+
+=== QC THRESHOLDS APPLIED ===
+|:-----------------------------:|:---:|:-----:|:------------------------------------------------------------------------:|
+
+
+=== FILTERED CELLS BY CRITERIA ===
+| High nFeature_RNA |           113           |
+
+
+=== SAMPLE DISTRIBUTION ===
+|sample8   |           5994|
+
+
+=== ADDITIONAL NOTES ===
+1. Thresholds validated via QC distribution plots (see PDF)
+2. Batch correction performed via Harmony (theta=2, 50 PCs)
+3. Cell cycle scores (S, G2M) regressed in scaling step
+4. QC plots saved as QC_metrics_[before/after]_filtering.pdf
+=== LCA QUALITY CONTROL REPORT ===
+
+Generated: 2025-03-28 02:56:35 CST
+
+Initial cells: 68974
+
+Retained cells: 66234（96%）
+
+
+=== QC THRESHOLDS APPLIED ===
+| Genes per Cell (nFeature_RNA) | 300 | 9e+03 | 300–7500: Filters empty droplets or stressed cells (Satija Lab; top 99%) |
+
+
+=== FILTERED CELLS BY CRITERIA ===
+|  Low nCount_RNA   |          3373           |
+
+
+=== SAMPLE DISTRIBUTION ===
+|sample9   |           2216|
+
+
+=== ADDITIONAL NOTES ===
+1. Thresholds validated via QC distribution plots (see PDF)
+2. Batch correction performed via Harmony (theta=2, 50 PCs)
+3. Cell cycle scores (S, G2M) regressed in scaling step
+4. QC plots saved as QC_metrics_[before/after]_filtering.pdf

@@ -1,0 +1,436 @@
+regulon	threshold	nCellsAssigned	AUCellComment	nGenes	clusteringOrder	clusterGroup	onlyNonDuplicatedExtended	personalNotes
+NFKB2 (30g)	0.0127	2854	Few cells have high AUC values (0% cells with AUC> 0.20). 	30	1	7	TRUE	
+NFKB2_extended (102g)	0.0275	2083	Few cells have high AUC values (0% cells with AUC> 0.20). 	102	2	7	FALSE	
+BCL3_extended (129g)	0.0362	559	Few cells have high AUC values (0% cells with AUC> 0.20). The global distribution overlaps the partial distributions. 	129	3	7	FALSE	
+BCL3 (40g)	0.0375	1958	Few cells have high AUC values (0% cells with AUC> 0.20). 	40	4	7	TRUE	
+KLF4_extended (40g)	0.0109	6335	Few cells have high AUC values (0% cells with AUC> 0.20). 	40	5	7	FALSE	
+KLF4 (18g)	0.0182	5925	Few cells have high AUC values (0.00023% cells with AUC> 0.20). 	18	6	7	TRUE	
+MAFG_extended (172g)	0.00278	4906	Few cells have high AUC values (0% cells with AUC> 0.20). 	172	7	7	TRUE	
+CREB5_extended (952g)	0.066	753	Few cells have high AUC values (0% cells with AUC> 0.20). The global distribution overlaps the partial distributions. 	952	8	7	FALSE	
+CREB5 (303g)	0.0312	449	Few cells have high AUC values (0% cells with AUC> 0.20). The global distribution overlaps the partial distributions. 	303	9	7	TRUE	
+TEAD1_extended (27g)	0.0059	542	Few cells have high AUC values (0% cells with AUC> 0.20). 92% (more than 0.75%) of AUC are zero. 	27	10	7	FALSE	
+TEAD1 (26g)	0.00612	534	Few cells have high AUC values (0% cells with AUC> 0.20). 92% (more than 0.75%) of AUC are zero. 	26	11	7	TRUE	
+KLF16 (31g)	0.00755	559	Few cells have high AUC values (0% cells with AUC> 0.20). 89% (more than 0.75%) of AUC are zero. 	31	12	7	TRUE	
+NFATC1_extended (16g)	0.0208	710	Few cells have high AUC values (0.00011% cells with AUC> 0.20). 84% (more than 0.75%) of AUC are zero. 	16	13	7	FALSE	
+NFATC1 (11g)	0.0253	640	Few cells have high AUC values (0.00011% cells with AUC> 0.20). 86% (more than 0.75%) of AUC are zero. 	11	14	7	TRUE	
+ZNF219_extended (23g)	0.00534	237	Few cells have high AUC values (0% cells with AUC> 0.20). 96% (more than 0.75%) of AUC are zero. 	23	15	7	TRUE	
+GRHL2_extended (23g)	0.00803	193	Few cells have high AUC values (0% cells with AUC> 0.20). 96% (more than 0.75%) of AUC are zero. 	23	16	7	FALSE	
+GRHL2 (13g)	0.0064	226	Few cells have high AUC values (0% cells with AUC> 0.20). 96% (more than 0.75%) of AUC are zero. 	13	17	7	TRUE	
+TBX1_extended (15g)	0.00617	225	Few cells have high AUC values (0% cells with AUC> 0.20). 97% (more than 0.75%) of AUC are zero. 	15	18	7	FALSE	
+TBX1 (10g)	0.00841	135	Few cells have high AUC values (0% cells with AUC> 0.20). 98% (more than 0.75%) of AUC are zero. 	10	19	7	TRUE	
+SOX15_extended (16g)	0.0113	430	Few cells have high AUC values (0% cells with AUC> 0.20). 93% (more than 0.75%) of AUC are zero. 	16	20	7	FALSE	
+SOX15 (13g)	0.0138	419	Few cells have high AUC values (0% cells with AUC> 0.20). 93% (more than 0.75%) of AUC are zero. 	13	21	7	TRUE	
+LMO2 (34g)	0.00348	434	Few cells have high AUC values (0% cells with AUC> 0.20). 94% (more than 0.75%) of AUC are zero. 	34	22	7	TRUE	
+OTX1_extended (67g)	0.00606	1736	Few cells have high AUC values (0% cells with AUC> 0.20). 	67	23	7	TRUE	
+FOXA1 (22g)	0.0104	1323	Few cells have high AUC values (0% cells with AUC> 0.20). 78% (more than 0.75%) of AUC are zero. 	22	24	7	TRUE	
+BCL11A_extended (48g)	0.00491	937	Few cells have high AUC values (0% cells with AUC> 0.20). 81% (more than 0.75%) of AUC are zero. 	48	25	7	TRUE	
+POU3F1_extended (43g)	0.0055	1201	Few cells have high AUC values (0% cells with AUC> 0.20). 79% (more than 0.75%) of AUC are zero. 	43	26	7	TRUE	
+BHLHE40 (14g)	0.0211	1526	Few cells have high AUC values (0% cells with AUC> 0.20). 	14	27	7	TRUE	
+CFL2 (20g)	0.0148	1425	Few cells have high AUC values (0% cells with AUC> 0.20). 80% (more than 0.75%) of AUC are zero. 	20	28	6	TRUE	
+STAT3_extended (69g)	0.113	36	Few cells have high AUC values (0% cells with AUC> 0.20). 	69	29	6	FALSE	
+STAT3 (46g)	0.14	26	Few cells have high AUC values (0.00011% cells with AUC> 0.20). The global distribution overlaps the partial distributions. 	46	30	6	TRUE	
+ZC3H11A_extended (162g)	0.00811	5900	Few cells have high AUC values (0% cells with AUC> 0.20). 	162	31	6	TRUE	
+FOXN3_extended (136g)	0.0357	2414	Few cells have high AUC values (0% cells with AUC> 0.20). The right distribution is taller. 	136	32	6	TRUE	
+CEBPB_extended (6303g)	0.776	0	The global distribution overlaps the partial distributions. 	6303	33	6	FALSE	
+EGR1_extended (8985g)	0.946	0	The global distribution overlaps the partial distributions. 	8985	34	6	FALSE	
+EGR1 (4742g)	0.535	542	The global distribution overlaps the partial distributions. 	4742	35	6	TRUE	
+KLF2_extended (28g)	0.0644	2161	Few cells have high AUC values (0% cells with AUC> 0.20). 	28	36	6	FALSE	
+KLF2 (16g)	0.11	2171	Few cells have high AUC values (0.03% cells with AUC> 0.20). 	16	37	6	TRUE	
+EGR3_extended (163g)	0.0582	1027	Few cells have high AUC values (0% cells with AUC> 0.20). 	163	38	6	FALSE	
+EGR3 (122g)	0.0461	899	Few cells have high AUC values (0% cells with AUC> 0.20). The global distribution overlaps the partial distributions. 	122	39	6	TRUE	
+ATF3 (4182g)	0.466	316	The global distribution overlaps the partial distributions. 	4182	40	6	TRUE	
+JUND (240g)	0.11	409	Few cells have high AUC values (0% cells with AUC> 0.20). The global distribution overlaps the partial distributions. 	240	41	6	TRUE	
+JUND_extended (3448g)	0.407	749		3448	42	6	FALSE	
+MAFF_extended (203g)	0.13	2087	Few cells have high AUC values (0.021% cells with AUC> 0.20). 	203	43	6	TRUE	
+ATF4_extended (931g)	0.34	13		931	44	6	FALSE	
+ATF4 (103g)	0.189	17	Few cells have high AUC values (8e-04% cells with AUC> 0.20). The global distribution overlaps the partial distributions. 	103	45	6	TRUE	
+CEBPD_extended (467g)	0.15	1058	Few cells have high AUC values (0.0027% cells with AUC> 0.20). The right distribution is taller. 	467	46	6	TRUE	
+KLF10_extended (33g)	0.106	2390	Few cells have high AUC values (0.001% cells with AUC> 0.20). The right distribution is taller. 	33	47	6	TRUE	
+MYC (11g)	0.572	202		11	48	6	TRUE	
+EGR2_extended (197g)	0.0388	4644	Few cells have high AUC values (0% cells with AUC> 0.20). The right distribution is taller. 	197	49	6	TRUE	
+FOSB (36g)	0.307	2060	The right distribution is taller. 	36	50	6	TRUE	
+FOS (24g)	0.23	5796	The right distribution is taller. 	24	51	6	TRUE	
+JUN_extended (254g)	0.166	748	Few cells have high AUC values (0.021% cells with AUC> 0.20). 	254	52	6	FALSE	
+JUN (95g)	0.228	953		95	53	6	TRUE	
+JUNB (29g)	0.307	3511		29	54	6	TRUE	
+FOS_extended (758g)	0.218	718		758	55	6	FALSE	
+FOSB_extended (383g)	0.182	717	Few cells have high AUC values (0.034% cells with AUC> 0.20). 	383	56	6	FALSE	
+JUNB_extended (249g)	0.157	1075	Few cells have high AUC values (0.014% cells with AUC> 0.20). 	249	57	6	FALSE	
+FOXO1_extended (245g)	0.00862	1358	Few cells have high AUC values (0% cells with AUC> 0.20). 	245	58	5	FALSE	
+FOXO1 (233g)	0.00818	1329	Few cells have high AUC values (0% cells with AUC> 0.20). 	233	59	5	TRUE	
+HIC1_extended (170g)	0.0101	1803	Few cells have high AUC values (0% cells with AUC> 0.20). 	170	60	5	TRUE	
+CREB3L1_extended (890g)	0.038	2140	Few cells have high AUC values (0.00034% cells with AUC> 0.20). 	890	61	5	FALSE	
+CREB3L1 (527g)	0.0296	1590	Few cells have high AUC values (0% cells with AUC> 0.20). 	527	62	5	TRUE	
+PBX3_extended (382g)	0.006	1722	Few cells have high AUC values (0% cells with AUC> 0.20). 	382	63	5	FALSE	
+MXD4_extended (349g)	0.0116	1475	Few cells have high AUC values (0% cells with AUC> 0.20). 	349	64	5	TRUE	
+NFYB_extended (1367g)	0.0215	1848	Few cells have high AUC values (0% cells with AUC> 0.20). 	1367	65	5	FALSE	
+NFYB (1165g)	0.0185	1815	Few cells have high AUC values (0% cells with AUC> 0.20). 	1165	66	5	TRUE	
+KLF12_extended (20g)	0.0118	650	Few cells have high AUC values (0% cells with AUC> 0.20). 89% (more than 0.75%) of AUC are zero. 	20	67	5	TRUE	
+NFATC4 (61g)	0.00689	1119	Few cells have high AUC values (0% cells with AUC> 0.20). 80% (more than 0.75%) of AUC are zero. 	61	68	5	TRUE	
+TCF12_extended (61g)	0.0139	1004	Few cells have high AUC values (0% cells with AUC> 0.20). 	61	69	5	FALSE	
+TCF12 (29g)	0.0116	1065	Few cells have high AUC values (0% cells with AUC> 0.20). 82% (more than 0.75%) of AUC are zero. 	29	70	5	TRUE	
+CEBPB (273g)	0.0937	80	Few cells have high AUC values (0% cells with AUC> 0.20). 	273	71	5	TRUE	
+FOXO3_extended (204g)	0.0434	2197	Few cells have high AUC values (0% cells with AUC> 0.20). 	204	72	5	FALSE	
+NFIB (151g)	0.024	1788	Few cells have high AUC values (0% cells with AUC> 0.20). 	151	73	5	TRUE	
+KLF9_extended (78g)	0.0955	2334		78	74	5	TRUE	
+TCF21_extended (109g)	0.0346	2317	Few cells have high AUC values (0% cells with AUC> 0.20). 	109	75	5	FALSE	
+TCF21 (21g)	0.0707	2141	Few cells have high AUC values (0.02% cells with AUC> 0.20). 	21	76	5	TRUE	
+ZEB1 (16g)	0.0317	1591	Few cells have high AUC values (0.00011% cells with AUC> 0.20). 78% (more than 0.75%) of AUC are zero. 	16	77	5	TRUE	
+MYLK (77g)	0.064	2344	Few cells have high AUC values (0.031% cells with AUC> 0.20). 	77	78	5	TRUE	
+FOXO3 (40g)	0.0452	2287	Few cells have high AUC values (0.0059% cells with AUC> 0.20). 	40	79	5	TRUE	
+NFATC4_extended (149g)	0.00595	2517	Few cells have high AUC values (0% cells with AUC> 0.20). 	149	80	5	FALSE	
+TBX5_extended (16g)	0.0306	1673	Few cells have high AUC values (0% cells with AUC> 0.20). 	16	81	5	TRUE	
+HOXA5 (27g)	0.0344	1698	Few cells have high AUC values (0% cells with AUC> 0.20). 	27	82	5	TRUE	
+TBX2_extended (22g)	0.0613	1949	Few cells have high AUC values (0.0044% cells with AUC> 0.20). 	22	83	5	TRUE	
+FOXF2_extended (91g)	0.0125	1747	Few cells have high AUC values (0% cells with AUC> 0.20). 	91	84	5	FALSE	
+FOXF2 (31g)	0.029	1737	Few cells have high AUC values (0% cells with AUC> 0.20). 	31	85	5	TRUE	
+TWIST2_extended (83g)	0.0234	2328	Few cells have high AUC values (0% cells with AUC> 0.20). 	83	86	5	TRUE	
+PRDM6 (48g)	0.0247	1703	Few cells have high AUC values (0% cells with AUC> 0.20). 	48	87	5	TRUE	
+ZEB1_extended (68g)	0.0225	1812	Few cells have high AUC values (0% cells with AUC> 0.20). 	68	88	5	FALSE	
+EBF1 (28g)	0.0458	931	Few cells have high AUC values (0% cells with AUC> 0.20). 	28	89	5	TRUE	
+EHF (2417g)	0.312	4875	The global distribution overlaps the partial distributions. 	2417	90	4	TRUE	
+EHF_extended (4636g)	0.479	5133	The right distribution is taller. 	4636	91	4	FALSE	
+ELF3_extended (4551g)	0.568	5052		4551	92	4	TRUE	
+ETS2 (4138g)	0.617	0	The global distribution overlaps the partial distributions. 	4138	93	4	TRUE	
+BHLHE40_extended (7897g)	0.666	6644	The right distribution is taller. 	7897	94	4	FALSE	
+ETS2_extended (7579g)	0.73	5206	The global distribution overlaps the partial distributions. 	7579	95	4	FALSE	
+MYC_extended (8620g)	0.761	5578		8620	96	4	FALSE	
+ATF3_extended (7637g)	0.754	4634		7637	97	4	FALSE	
+SRF_extended (44g)	0.0135	1746	Few cells have high AUC values (0% cells with AUC> 0.20). 	44	98	4	FALSE	
+SRF (35g)	0.0166	1749	Few cells have high AUC values (0% cells with AUC> 0.20). The global distribution overlaps the partial distributions. 	35	99	4	TRUE	
+SOX9_extended (18g)	0.0197	4037	Few cells have high AUC values (0% cells with AUC> 0.20). 	18	100	4	TRUE	
+ASCL2_extended (133g)	0.00906	4871	Few cells have high AUC values (0% cells with AUC> 0.20). 	133	101	4	TRUE	
+TFAP2A_extended (136g)	0.0341	5099	Few cells have high AUC values (0% cells with AUC> 0.20). 	136	102	4	FALSE	
+TFAP2A (110g)	0.0359	5094	Few cells have high AUC values (0% cells with AUC> 0.20). 	110	103	4	TRUE	
+KLF5_extended (626g)	0.0813	5117	Few cells have high AUC values (0.011% cells with AUC> 0.20). 	626	104	4	FALSE	
+KLF5 (441g)	0.064	5095	Few cells have high AUC values (0.00011% cells with AUC> 0.20). 	441	105	4	TRUE	
+IRF6_extended (161g)	0.0169	4534	Few cells have high AUC values (0% cells with AUC> 0.20). 	161	106	4	FALSE	
+IRF6 (92g)	0.0209	4062	Few cells have high AUC values (0% cells with AUC> 0.20). 	92	107	4	TRUE	
+TGIF1_extended (162g)	0.0636	1881	Few cells have high AUC values (0% cells with AUC> 0.20). The right distribution is taller. 	162	108	4	TRUE	
+FOSL1_extended (1757g)	0.118	3162	Few cells have high AUC values (0.039% cells with AUC> 0.20). 	1757	109	4	FALSE	
+FOSL1 (240g)	0.0413	3248	Few cells have high AUC values (0% cells with AUC> 0.20). 	240	110	4	TRUE	
+FOXA1_extended (138g)	0.00836	1776	Few cells have high AUC values (0% cells with AUC> 0.20). 	138	111	4	FALSE	
+PITX1_extended (473g)	0.0112	1891	Few cells have high AUC values (0% cells with AUC> 0.20). 	473	112	4	FALSE	
+PITX1 (446g)	0.0103	1901	Few cells have high AUC values (0% cells with AUC> 0.20). 	446	113	4	TRUE	
+IRF9_extended (21g)	0.00941	835	Few cells have high AUC values (0% cells with AUC> 0.20). 87% (more than 0.75%) of AUC are zero. 	21	114	4	FALSE	
+IRF9 (13g)	0.00993	429	Few cells have high AUC values (0% cells with AUC> 0.20). 94% (more than 0.75%) of AUC are zero. 	13	115	4	TRUE	
+FOXJ1_extended (56g)	0.011	1492	Few cells have high AUC values (0% cells with AUC> 0.20). 	56	116	4	TRUE	
+GRHL1_extended (189g)	0.00614	1418	Few cells have high AUC values (0% cells with AUC> 0.20). 	189	117	4	FALSE	
+GRHL1 (102g)	0.00733	1524	Few cells have high AUC values (0% cells with AUC> 0.20). 	102	118	4	TRUE	
+RUNX2_extended (10g)	0.0158	812	Few cells have high AUC values (0% cells with AUC> 0.20). 89% (more than 0.75%) of AUC are zero. 	10	119	4	TRUE	
+NKX2-1_extended (51g)	0.0159	1233	Few cells have high AUC values (0% cells with AUC> 0.20). 	51	120	4	FALSE	
+NKX2-1 (44g)	0.0182	1191	Few cells have high AUC values (0% cells with AUC> 0.20). 	44	121	4	TRUE	
+TFF3_extended (88g)	0.0128	1317	Few cells have high AUC values (0% cells with AUC> 0.20). 	88	122	4	TRUE	
+FOXA2_extended (63g)	0.0279	1873	Few cells have high AUC values (0% cells with AUC> 0.20). 	63	123	4	TRUE	
+PPARG_extended (10g)	0.00814	133	Few cells have high AUC values (0% cells with AUC> 0.20). 98% (more than 0.75%) of AUC are zero. 	10	124	3	TRUE	
+NR1H3_extended (18g)	0.0135	487	Few cells have high AUC values (0% cells with AUC> 0.20). 92% (more than 0.75%) of AUC are zero. 	18	125	3	FALSE	
+NR1H3 (13g)	0.0177	446	Few cells have high AUC values (0% cells with AUC> 0.20). 93% (more than 0.75%) of AUC are zero. 	13	126	3	TRUE	
+MEF2C (42g)	0.0119	475	Few cells have high AUC values (0% cells with AUC> 0.20). 88% (more than 0.75%) of AUC are zero. 	42	127	3	TRUE	
+STAT5A_extended (19g)	0.0237	264	Few cells have high AUC values (0.00034% cells with AUC> 0.20). 96% (more than 0.75%) of AUC are zero. 	19	128	3	TRUE	
+HDAC2 (21g)	0.0193	1932	Few cells have high AUC values (0% cells with AUC> 0.20). 	21	129	3	TRUE	
+POLE4_extended (189g)	0.0372	244	Few cells have high AUC values (0% cells with AUC> 0.20). 	189	130	3	TRUE	
+NELFE_extended (2897g)	0.343	0	The AUC might follow a normal distribution (random gene-set?). 	2897	131	3	TRUE	
+HDAC2_extended (2722g)	0.281	1	The AUC might follow a normal distribution (random gene-set?). 	2722	132	3	FALSE	
+SAP30_extended (124g)	0.00591	1475	Few cells have high AUC values (0% cells with AUC> 0.20). 	124	133	3	TRUE	
+MXD3_extended (61g)	0.0111	1239	Few cells have high AUC values (0% cells with AUC> 0.20). 	61	134	3	TRUE	
+RB1_extended (118g)	0.00277	1069	Few cells have high AUC values (0% cells with AUC> 0.20). 78% (more than 0.75%) of AUC are zero. 	118	135	3	TRUE	
+TFDP1_extended (241g)	0.00303	1035	Few cells have high AUC values (0% cells with AUC> 0.20). 	241	136	3	FALSE	
+TFDP1 (200g)	0.00314	1041	Few cells have high AUC values (0% cells with AUC> 0.20). 	200	137	3	TRUE	
+EZH2_extended (603g)	0.0453	147	Few cells have high AUC values (0% cells with AUC> 0.20). 	603	138	3	TRUE	
+IRF8_extended (980g)	0.0436	1354	Few cells have high AUC values (0.00091% cells with AUC> 0.20). 	980	139	3	FALSE	
+IRF8 (540g)	0.0194	1212	Few cells have high AUC values (0% cells with AUC> 0.20). 	540	140	3	TRUE	
+SPI1_extended (1690g)	0.124	1222	Few cells have high AUC values (0.037% cells with AUC> 0.20). 	1690	141	3	FALSE	
+SPI1 (535g)	0.0339	1267	Few cells have high AUC values (0.00046% cells with AUC> 0.20). 	535	142	3	TRUE	
+HIF1A_extended (76g)	0.00681	1748	Few cells have high AUC values (0% cells with AUC> 0.20). 	76	143	3	TRUE	
+TCF4_extended (576g)	0.0781	7	Few cells have high AUC values (0% cells with AUC> 0.20). The AUC might follow a normal distribution (random gene-set?). 	576	144	3	TRUE	
+GABPB1_extended (2190g)	0.193	1007		2190	145	3	FALSE	
+GABPB1 (764g)	0.0121	6719	Few cells have high AUC values (0% cells with AUC> 0.20). 	764	146	3	TRUE	
+ZMIZ1_extended (531g)	0.00816	1825	Few cells have high AUC values (0% cells with AUC> 0.20). 	531	147	3	TRUE	
+MITF_extended (1104g)	0.04	3660	Few cells have high AUC values (0% cells with AUC> 0.20). 	1104	148	3	FALSE	
+MITF (366g)	0.0181	2177	Few cells have high AUC values (0% cells with AUC> 0.20). 	366	149	3	TRUE	
+PRDM1_extended (352g)	0.00506	1697	Few cells have high AUC values (0% cells with AUC> 0.20). 	352	150	3	FALSE	
+YY1 (1287g)	0.115	88	Few cells have high AUC values (0% cells with AUC> 0.20). 	1287	151	3	TRUE	
+STAT1_extended (1414g)	0.0333	1221	Few cells have high AUC values (0% cells with AUC> 0.20). 	1414	152	3	FALSE	
+ELF1_extended (5993g)	0.379	1049		5993	153	3	FALSE	
+ELF1 (4642g)	0.311	1048		4642	154	3	TRUE	
+MAX_extended (3862g)	0.147	1183	Few cells have high AUC values (0.023% cells with AUC> 0.20). 	3862	155	3	FALSE	
+YY1_extended (5496g)	0.305	504	The global distribution overlaps the partial distributions. 	5496	156	3	FALSE	
+RAD21_extended (4702g)	0.213	1722		4702	157	3	FALSE	
+CREB3L2_extended (442g)	0.00809	1664	Few cells have high AUC values (0% cells with AUC> 0.20). 	442	158	3	FALSE	
+CREB3L2 (286g)	0.0241	32	Few cells have high AUC values (0% cells with AUC> 0.20). The global distribution overlaps the partial distributions. 	286	159	3	TRUE	
+CREB3_extended (1242g)	0.0449	1337	Few cells have high AUC values (0% cells with AUC> 0.20). 	1242	160	3	FALSE	
+CREB3 (628g)	0.028	904	Few cells have high AUC values (0% cells with AUC> 0.20). The global distribution overlaps the partial distributions. 	628	161	3	TRUE	
+GATA2_extended (245g)	0.0602	1037	Few cells have high AUC values (0.00091% cells with AUC> 0.20). 	245	162	3	FALSE	
+GATA2 (118g)	0.0568	1028	Few cells have high AUC values (0.0087% cells with AUC> 0.20). 	118	163	3	TRUE	
+CREM_extended (113g)	0.0434	1077	Few cells have high AUC values (0% cells with AUC> 0.20). 	113	164	3	FALSE	
+CREM (50g)	0.068	939	Few cells have high AUC values (0.00023% cells with AUC> 0.20). 	50	165	3	TRUE	
+ATF1 (290g)	0.00934	1405	Few cells have high AUC values (0% cells with AUC> 0.20). 	290	166	3	TRUE	
+FOSL2_extended (156g)	0.0103	1410	Few cells have high AUC values (0% cells with AUC> 0.20). 	156	167	3	FALSE	
+FOSL2 (29g)	0.0226	1580	Few cells have high AUC values (0% cells with AUC> 0.20). 	29	168	3	TRUE	
+NFKB1_extended (152g)	0.0195	1115	Few cells have high AUC values (0% cells with AUC> 0.20). The global distribution overlaps the partial distributions. 	152	169	3	FALSE	
+NFKB1 (105g)	0.0225	1017	Few cells have high AUC values (0% cells with AUC> 0.20). The global distribution overlaps the partial distributions. 	105	170	3	TRUE	
+BATF_extended (78g)	0.0597	1022	Few cells have high AUC values (0.0026% cells with AUC> 0.20). 	78	171	3	TRUE	
+REL_extended (169g)	0.102	1011	Few cells have high AUC values (0.014% cells with AUC> 0.20). 	169	172	3	FALSE	
+REL (144g)	0.0986	1015	Few cells have high AUC values (0.014% cells with AUC> 0.20). 	144	173	3	TRUE	
+RELB_extended (58g)	0.00818	1304	Few cells have high AUC values (0% cells with AUC> 0.20). 	58	174	3	FALSE	
+RELB (50g)	0.00884	1323	Few cells have high AUC values (0% cells with AUC> 0.20). 	50	175	3	TRUE	
+NFE2L3_extended (31g)	0.0156	1046	Few cells have high AUC values (0% cells with AUC> 0.20). 85% (more than 0.75%) of AUC are zero. 	31	176	3	TRUE	
+RUNX3_extended (79g)	0.0114	1267	Few cells have high AUC values (0% cells with AUC> 0.20). 	79	177	3	FALSE	
+RUNX3 (46g)	0.0161	1272	Few cells have high AUC values (0% cells with AUC> 0.20). 	46	178	3	TRUE	
+STAT5B_extended (72g)	0.00355	511	Few cells have high AUC values (0% cells with AUC> 0.20). 89% (more than 0.75%) of AUC are zero. 	72	179	2	TRUE	
+BRF2_extended (132g)	0.00246	915	Few cells have high AUC values (0% cells with AUC> 0.20). 79% (more than 0.75%) of AUC are zero. 	132	180	2	TRUE	
+GABPA_extended (617g)	0.00536	1408	Few cells have high AUC values (0% cells with AUC> 0.20). 	617	181	2	FALSE	
+GABPA (293g)	0.00259	1134	Few cells have high AUC values (0% cells with AUC> 0.20). 	293	182	2	TRUE	
+ZBTB17_extended (250g)	0.00265	1393	Few cells have high AUC values (0% cells with AUC> 0.20). 	250	183	2	TRUE	
+SREBF1 (157g)	0.00334	1496	Few cells have high AUC values (0% cells with AUC> 0.20). 	157	184	2	TRUE	
+ELK3_extended (775g)	0.0112	921	Few cells have high AUC values (0% cells with AUC> 0.20). 	775	185	2	FALSE	
+ELK3 (324g)	0.00343	1285	Few cells have high AUC values (0% cells with AUC> 0.20). 	324	186	2	TRUE	
+ELK1_extended (748g)	0.0158	788	Few cells have high AUC values (0% cells with AUC> 0.20). 	748	187	2	FALSE	
+NR2C2_extended (552g)	0.00503	1227	Few cells have high AUC values (0% cells with AUC> 0.20). 	552	188	2	FALSE	
+ZNF143 (40g)	0.00367	429	Few cells have high AUC values (0% cells with AUC> 0.20). 93% (more than 0.75%) of AUC are zero. 	40	189	2	TRUE	
+SMARCC2_extended (389g)	0.0046	1070	Few cells have high AUC values (0% cells with AUC> 0.20). 	389	190	2	FALSE	
+SMARCC2 (82g)	0.00346	810	Few cells have high AUC values (0% cells with AUC> 0.20). 81% (more than 0.75%) of AUC are zero. 	82	191	2	TRUE	
+DNMT3A (43g)	0.00405	663	Few cells have high AUC values (0% cells with AUC> 0.20). 89% (more than 0.75%) of AUC are zero. 	43	192	2	TRUE	
+E2F3_extended (219g)	0.00327	774	Few cells have high AUC values (0% cells with AUC> 0.20). 	219	193	2	FALSE	
+E2F3 (217g)	0.00328	761	Few cells have high AUC values (0% cells with AUC> 0.20). 	217	194	2	TRUE	
+ELF4_extended (459g)	0.00431	1501	Few cells have high AUC values (0% cells with AUC> 0.20). 	459	195	2	FALSE	
+ELF4 (122g)	0.00316	894	Few cells have high AUC values (0% cells with AUC> 0.20). 77% (more than 0.75%) of AUC are zero. 	122	196	2	TRUE	
+BACH1_extended (121g)	0.00247	967	Few cells have high AUC values (0% cells with AUC> 0.20). 81% (more than 0.75%) of AUC are zero. 	121	197	2	FALSE	
+BHLHE41_extended (221g)	0.00247	1255	Few cells have high AUC values (0% cells with AUC> 0.20). 	221	198	2	FALSE	
+USF2_extended (1954g)	0.0632	1562	Few cells have high AUC values (0.00011% cells with AUC> 0.20). 	1954	199	2	FALSE	
+USF2 (517g)	0.0212	1083	Few cells have high AUC values (0% cells with AUC> 0.20). 	517	200	2	TRUE	
+SP1_extended (446g)	0.00429	1342	Few cells have high AUC values (0% cells with AUC> 0.20). 	446	201	2	FALSE	
+SP1 (416g)	0.00422	1206	Few cells have high AUC values (0% cells with AUC> 0.20). 	416	202	2	TRUE	
+PHF8_extended (152g)	0.00296	829	Few cells have high AUC values (0% cells with AUC> 0.20). 78% (more than 0.75%) of AUC are zero. 	152	203	2	TRUE	
+ZNF43 (97g)	0.00298	910	Few cells have high AUC values (0% cells with AUC> 0.20). 81% (more than 0.75%) of AUC are zero. 	97	204	2	TRUE	
+ETV7_extended (476g)	0.00371	1241	Few cells have high AUC values (0% cells with AUC> 0.20). 	476	205	2	FALSE	
+SP3_extended (655g)	0.0074	1274	Few cells have high AUC values (0% cells with AUC> 0.20). 	655	206	2	TRUE	
+E2F6_extended (540g)	0.00698	1325	Few cells have high AUC values (0% cells with AUC> 0.20). 	540	207	2	FALSE	
+PML_extended (1101g)	0.0195	801	Few cells have high AUC values (0% cells with AUC> 0.20). 	1101	208	2	TRUE	
+NFYA_extended (434g)	0.00462	1394	Few cells have high AUC values (0% cells with AUC> 0.20). 	434	209	2	TRUE	
+ZNF143_extended (504g)	0.00401	1310	Few cells have high AUC values (0% cells with AUC> 0.20). 	504	210	2	FALSE	
+XRCC4_extended (643g)	0.00631	1565	Few cells have high AUC values (0% cells with AUC> 0.20). 	643	211	2	TRUE	
+RBBP5_extended (563g)	0.00518	1383	Few cells have high AUC values (0% cells with AUC> 0.20). 	563	212	2	FALSE	
+TAF1_extended (511g)	0.00372	1302	Few cells have high AUC values (0% cells with AUC> 0.20). 	511	213	2	TRUE	
+REST_extended (1625g)	0.0375	1078	Few cells have high AUC values (0% cells with AUC> 0.20). 	1625	214	2	FALSE	
+GTF2F1_extended (1990g)	0.0263	1603	Few cells have high AUC values (0% cells with AUC> 0.20). 	1990	215	2	FALSE	
+GTF2F1 (1180g)	0.0167	1542	Few cells have high AUC values (0% cells with AUC> 0.20). 	1180	216	2	TRUE	
+SREBF1_extended (1391g)	0.0182	1177	Few cells have high AUC values (0% cells with AUC> 0.20). 	1391	217	2	FALSE	
+SUPT20H_extended (875g)	0.0105	1354	Few cells have high AUC values (0% cells with AUC> 0.20). 	875	218	2	TRUE	
+TBL1XR1_extended (1582g)	0.0496	655	Few cells have high AUC values (0% cells with AUC> 0.20). 	1582	219	2	TRUE	
+CEBPZ_extended (1092g)	0.0258	983	Few cells have high AUC values (0% cells with AUC> 0.20). 	1092	220	2	TRUE	
+CREB1_extended (1253g)	0.0161	1599	Few cells have high AUC values (0% cells with AUC> 0.20). 	1253	221	2	TRUE	
+KDM5A_extended (2079g)	0.0294	1408	Few cells have high AUC values (0% cells with AUC> 0.20). 	2079	222	2	FALSE	
+ATF1_extended (1814g)	0.0303	1680	Few cells have high AUC values (0% cells with AUC> 0.20). 	1814	223	2	FALSE	
+THAP11_extended (220g)	0.00315	1366	Few cells have high AUC values (0% cells with AUC> 0.20). 	220	224	2	TRUE	
+HCFC1 (174g)	0.00246	1070	Few cells have high AUC values (0% cells with AUC> 0.20). 	174	225	2	TRUE	
+SP4_extended (235g)	0.00296	1427	Few cells have high AUC values (0% cells with AUC> 0.20). 	235	226	2	FALSE	
+ZNF274_extended (388g)	0.0067	563	Few cells have high AUC values (0% cells with AUC> 0.20). 	388	227	2	TRUE	
+ETV5_extended (1750g)	0.0287	719	Few cells have high AUC values (0% cells with AUC> 0.20). 	1750	228	2	FALSE	
+ETV5 (1001g)	0.00991	1343	Few cells have high AUC values (0% cells with AUC> 0.20). 	1001	229	2	TRUE	
+TP53_extended (320g)	0.0038	1468	Few cells have high AUC values (0% cells with AUC> 0.20). 	320	230	2	FALSE	
+HCFC1_extended (1219g)	0.0118	1308	Few cells have high AUC values (0% cells with AUC> 0.20). 	1219	231	2	FALSE	
+THAP1_extended (636g)	0.00701	1438	Few cells have high AUC values (0% cells with AUC> 0.20). 	636	232	2	FALSE	
+ETV6_extended (743g)	0.00963	1290	Few cells have high AUC values (0% cells with AUC> 0.20). 	743	233	2	TRUE	
+MAZ_extended (1698g)	0.026	1682	Few cells have high AUC values (0% cells with AUC> 0.20). 	1698	234	2	TRUE	
+RCOR1_extended (714g)	0.00615	1376	Few cells have high AUC values (0% cells with AUC> 0.20). 	714	235	2	TRUE	
+NFYC (105g)	0.00358	1582	Few cells have high AUC values (0% cells with AUC> 0.20). 	105	236	2	TRUE	
+CUX1_extended (829g)	0.0194	880	Few cells have high AUC values (0% cells with AUC> 0.20). 	829	237	2	FALSE	
+CUX1 (809g)	0.0194	858	Few cells have high AUC values (0% cells with AUC> 0.20). 	809	238	2	TRUE	
+NFYC_extended (331g)	0.00799	1102	Few cells have high AUC values (0% cells with AUC> 0.20). 	331	239	2	FALSE	
+UBTF_extended (1046g)	0.016	935	Few cells have high AUC values (0% cells with AUC> 0.20). 	1046	240	2	TRUE	
+BDP1_extended (885g)	0.0175	1044	Few cells have high AUC values (0% cells with AUC> 0.20). 	885	241	2	TRUE	
+EP300_extended (840g)	0.0131	1041	Few cells have high AUC values (0% cells with AUC> 0.20). The global distribution overlaps the partial distributions. 	840	242	2	TRUE	
+SIX5_extended (155g)	0.00324	737	Few cells have high AUC values (0% cells with AUC> 0.20). 75% (more than 0.75%) of AUC are zero. 	155	243	2	FALSE	
+SIX5 (91g)	0.00304	692	Few cells have high AUC values (0% cells with AUC> 0.20). 85% (more than 0.75%) of AUC are zero. 	91	244	2	TRUE	
+ETV2_extended (503g)	0.0039	1370	Few cells have high AUC values (0% cells with AUC> 0.20). 	503	245	2	FALSE	
+ETV2 (276g)	0.00236	1100	Few cells have high AUC values (0% cells with AUC> 0.20). 	276	246	2	TRUE	
+BRF1_extended (187g)	0.00287	1122	Few cells have high AUC values (0% cells with AUC> 0.20). 	187	247	2	TRUE	
+RFX3_extended (316g)	0.0104	327	Few cells have high AUC values (0% cells with AUC> 0.20). 	316	248	2	FALSE	
+RFX3 (292g)	0.0101	322	Few cells have high AUC values (0% cells with AUC> 0.20). 	292	249	2	TRUE	
+IRF3 (41g)	0.00498	686	Few cells have high AUC values (0% cells with AUC> 0.20). 87% (more than 0.75%) of AUC are zero. 	41	250	2	TRUE	
+STAT6 (37g)	0.00527	334	Few cells have high AUC values (0% cells with AUC> 0.20). 94% (more than 0.75%) of AUC are zero. 	37	251	2	TRUE	
+ETV4_extended (437g)	0.00672	1458	Few cells have high AUC values (0% cells with AUC> 0.20). 	437	252	2	FALSE	
+ETV4 (224g)	0.00271	1389	Few cells have high AUC values (0% cells with AUC> 0.20). 	224	253	2	TRUE	
+CEBPA_extended (225g)	0.00988	453	Few cells have high AUC values (0% cells with AUC> 0.20). 	225	254	2	TRUE	
+ZBTB7A_extended (242g)	0.00515	1400	Few cells have high AUC values (0% cells with AUC> 0.20). 	242	255	2	TRUE	
+KLF16_extended (512g)	0.00682	1400	Few cells have high AUC values (0% cells with AUC> 0.20). 	512	256	2	FALSE	
+SREBF2_extended (750g)	0.00825	1252	Few cells have high AUC values (0% cells with AUC> 0.20). 	750	257	2	FALSE	
+MAFK_extended (866g)	0.0398	422	Few cells have high AUC values (0% cells with AUC> 0.20). 	866	258	2	FALSE	
+ESRRA_extended (2221g)	0.0213	5915	Few cells have high AUC values (0.00011% cells with AUC> 0.20). 	2221	259	2	TRUE	
+KDM5B_extended (1714g)	0.0753	493	Few cells have high AUC values (0.00023% cells with AUC> 0.20). 	1714	260	2	TRUE	
+PRKAA2_extended (212g)	0.00299	1344	Few cells have high AUC values (0% cells with AUC> 0.20). 	212	261	2	TRUE	
+FOXP2_extended (582g)	0.00731	1367	Few cells have high AUC values (0% cells with AUC> 0.20). The global distribution overlaps the partial distributions. 	582	262	2	FALSE	
+FOXP2 (362g)	0.00511	1450	Few cells have high AUC values (0% cells with AUC> 0.20). 	362	263	2	TRUE	
+TRIM28_extended (833g)	0.0202	660	Few cells have high AUC values (0% cells with AUC> 0.20). 	833	264	2	TRUE	
+SIN3A_extended (1452g)	0.023	1095	Few cells have high AUC values (0% cells with AUC> 0.20). 	1452	265	2	FALSE	
+SIN3A (592g)	0.0101	1045	Few cells have high AUC values (0% cells with AUC> 0.20). 	592	266	2	TRUE	
+E2F4_extended (638g)	0.00717	1405	Few cells have high AUC values (0% cells with AUC> 0.20). 	638	267	2	TRUE	
+RELA_extended (1003g)	0.0213	855	Few cells have high AUC values (0% cells with AUC> 0.20). 	1003	268	2	FALSE	
+SMARCA4_extended (2382g)	0.049	1014	Few cells have high AUC values (0% cells with AUC> 0.20). 	2382	269	2	TRUE	
+IRF3_extended (1317g)	0.0332	737	Few cells have high AUC values (0% cells with AUC> 0.20). 	1317	270	2	FALSE	
+KLF3_extended (196g)	0.00301	1394	Few cells have high AUC values (0% cells with AUC> 0.20). 	196	271	2	TRUE	
+KDM5A (296g)	0.00802	887	Few cells have high AUC values (0% cells with AUC> 0.20). 	296	272	2	TRUE	
+EGR4_extended (732g)	0.0119	899	Few cells have high AUC values (0% cells with AUC> 0.20). 	732	273	2	FALSE	
+CEBPG_extended (272g)	0.00665	1606	Few cells have high AUC values (0% cells with AUC> 0.20). 	272	274	2	FALSE	
+MXI1_extended (1552g)	0.0334	601	Few cells have high AUC values (0% cells with AUC> 0.20). 	1552	275	2	TRUE	
+TAF7_extended (3535g)	0.16	777	Few cells have high AUC values (0.025% cells with AUC> 0.20). The global distribution overlaps the partial distributions. 	3535	276	2	TRUE	
+IRF1_extended (5887g)	0.455	140		5887	277	2	FALSE	
+BCLAF1_extended (7488g)	0.475	200	The global distribution overlaps the partial distributions. 	7488	278	2	FALSE	
+BCLAF1 (4277g)	0.27	311	The global distribution overlaps the partial distributions. 	4277	279	2	TRUE	
+AHR_extended (335g)	0.0425	62	Few cells have high AUC values (0% cells with AUC> 0.20). 	335	280	2	TRUE	
+POLR2A_extended (2955g)	0.138	278	Few cells have high AUC values (0.0041% cells with AUC> 0.20). 	2955	281	2	FALSE	
+POLR2A (2237g)	0.114	269	Few cells have high AUC values (8e-04% cells with AUC> 0.20). 	2237	282	2	TRUE	
+SP2_extended (542g)	0.00541	1425	Few cells have high AUC values (0% cells with AUC> 0.20). 	542	283	2	FALSE	
+ETV3_extended (736g)	0.0146	947	Few cells have high AUC values (0% cells with AUC> 0.20). The global distribution overlaps the partial distributions. 	736	284	2	TRUE	
+ELK4_extended (1551g)	0.0313	1026	Few cells have high AUC values (0% cells with AUC> 0.20). 	1551	285	2	TRUE	
+ELF2_extended (3067g)	0.112	326	Few cells have high AUC values (0.00068% cells with AUC> 0.20). 	3067	286	2	FALSE	
+ELF2 (1401g)	0.0462	415	Few cells have high AUC values (0% cells with AUC> 0.20). The global distribution overlaps the partial distributions. 	1401	287	2	TRUE	
+ETS1_extended (730g)	0.00752	1441	Few cells have high AUC values (0% cells with AUC> 0.20). 	730	288	2	FALSE	
+ETS1 (274g)	0.00397	1573	Few cells have high AUC values (0% cells with AUC> 0.20). 	274	289	2	TRUE	
+ZNF384_extended (207g)	0.00418	1914	Few cells have high AUC values (0% cells with AUC> 0.20). 	207	290	2	FALSE	
+ZNF384 (135g)	0.00309	1392	Few cells have high AUC values (0% cells with AUC> 0.20). 	135	291	2	TRUE	
+MAFB_extended (97g)	0.00767	1755	Few cells have high AUC values (0% cells with AUC> 0.20). 	97	292	1	FALSE	
+MAFB (18g)	0.0103	491	Few cells have high AUC values (0% cells with AUC> 0.20). 92% (more than 0.75%) of AUC are zero. 	18	293	1	TRUE	
+RORA_extended (26g)	0.00972	398	Few cells have high AUC values (0% cells with AUC> 0.20). 92% (more than 0.75%) of AUC are zero. 	26	294	1	TRUE	
+HOXB4_extended (15g)	0.0111	536	Few cells have high AUC values (0% cells with AUC> 0.20). 91% (more than 0.75%) of AUC are zero. 	15	295	1	TRUE	
+NFE2L1_extended (40g)	0.00491	626	Few cells have high AUC values (0% cells with AUC> 0.20). 89% (more than 0.75%) of AUC are zero. 	40	296	1	TRUE	
+THRA_extended (16g)	0.00744	306	Few cells have high AUC values (0% cells with AUC> 0.20). 95% (more than 0.75%) of AUC are zero. 	16	297	1	TRUE	
+NFATC2_extended (25g)	0.0111	838	Few cells have high AUC values (0% cells with AUC> 0.20). 85% (more than 0.75%) of AUC are zero. 	25	298	1	TRUE	
+BHLHE22_extended (18g)	0.0113	386	Few cells have high AUC values (0% cells with AUC> 0.20). 94% (more than 0.75%) of AUC are zero. 	18	299	1	TRUE	
+SNAI2_extended (15g)	0.00957	294	Few cells have high AUC values (0% cells with AUC> 0.20). 95% (more than 0.75%) of AUC are zero. 	15	300	1	TRUE	
+KLF13_extended (121g)	0.00347	949	Few cells have high AUC values (0% cells with AUC> 0.20). 78% (more than 0.75%) of AUC are zero. 	121	301	1	FALSE	
+KLF13 (45g)	0.00468	415	Few cells have high AUC values (0% cells with AUC> 0.20). 91% (more than 0.75%) of AUC are zero. 	45	302	1	TRUE	
+MEF2A_extended (25g)	0.00804	679	Few cells have high AUC values (0% cells with AUC> 0.20). 89% (more than 0.75%) of AUC are zero. 	25	303	1	TRUE	
+NR2C2 (39g)	0.00337	392	Few cells have high AUC values (0% cells with AUC> 0.20). 94% (more than 0.75%) of AUC are zero. 	39	304	1	TRUE	
+PBX1 (18g)	0.00788	301	Few cells have high AUC values (0% cells with AUC> 0.20). 95% (more than 0.75%) of AUC are zero. 	18	305	1	TRUE	
+STAT1 (61g)	0.00798	568	Few cells have high AUC values (0% cells with AUC> 0.20). 82% (more than 0.75%) of AUC are zero. 	61	306	1	TRUE	
+STAT2_extended (378g)	0.00838	770	Few cells have high AUC values (0% cells with AUC> 0.20). 	378	307	1	FALSE	
+STAT2 (104g)	0.00769	253	Few cells have high AUC values (0% cells with AUC> 0.20). 79% (more than 0.75%) of AUC are zero. 	104	308	1	TRUE	
+ETV7 (26g)	0.00922	216	Few cells have high AUC values (0% cells with AUC> 0.20). 96% (more than 0.75%) of AUC are zero. 	26	309	1	TRUE	
+BACH1 (12g)	0.0103	109	Few cells have high AUC values (0% cells with AUC> 0.20). 98% (more than 0.75%) of AUC are zero. 	12	310	1	TRUE	
+BBX_extended (17g)	0.0141	2548	Few cells have high AUC values (0% cells with AUC> 0.20). 	17	311	1	TRUE	
+NR2F2_extended (32g)	0.00611	1162	Few cells have high AUC values (0% cells with AUC> 0.20). 80% (more than 0.75%) of AUC are zero. 	32	312	1	TRUE	
+NFIX (27g)	0.0138	1478	Few cells have high AUC values (0% cells with AUC> 0.20). The global distribution overlaps the partial distributions. 	27	313	1	TRUE	
+ARID5B_extended (33g)	0.0139	1552	Few cells have high AUC values (0% cells with AUC> 0.20). 	33	314	1	TRUE	
+NFIC_extended (15g)	0.0259	1639	Few cells have high AUC values (0% cells with AUC> 0.20). 	15	315	1	TRUE	
+PRDM1 (29g)	0.00619	527	Few cells have high AUC values (0% cells with AUC> 0.20). 92% (more than 0.75%) of AUC are zero. 	29	316	1	TRUE	
+NFIL3_extended (17g)	0.00592	275	Few cells have high AUC values (0% cells with AUC> 0.20). 96% (more than 0.75%) of AUC are zero. 	17	317	1	TRUE	
+XBP1_extended (572g)	0.0647	200	Few cells have high AUC values (0% cells with AUC> 0.20). The global distribution overlaps the partial distributions. 	572	318	1	FALSE	
+XBP1 (451g)	0.0579	179	Few cells have high AUC values (0% cells with AUC> 0.20). The global distribution overlaps the partial distributions. 	451	319	1	TRUE	
+CHD1 (83g)	0.00461	1620	Few cells have high AUC values (0% cells with AUC> 0.20). 	83	320	1	TRUE	
+IRF1 (48g)	0.0197	1563	Few cells have high AUC values (0% cells with AUC> 0.20). 	48	321	1	TRUE	
+DBP_extended (13g)	0.00776	264	Few cells have high AUC values (0% cells with AUC> 0.20). 96% (more than 0.75%) of AUC are zero. 	13	322	1	FALSE	
+DBP (10g)	0.01	213	Few cells have high AUC values (0% cells with AUC> 0.20). 97% (more than 0.75%) of AUC are zero. 	10	323	1	TRUE	
+RFX5_extended (34g)	0.00455	266	Few cells have high AUC values (0% cells with AUC> 0.20). 96% (more than 0.75%) of AUC are zero. 	34	324	1	FALSE	
+RFX5 (33g)	0.00468	263	Few cells have high AUC values (0% cells with AUC> 0.20). 96% (more than 0.75%) of AUC are zero. 	33	325	1	TRUE	
+NR2C1_extended (33g)	0.0045	273	Few cells have high AUC values (0% cells with AUC> 0.20). 96% (more than 0.75%) of AUC are zero. 	33	326	1	FALSE	
+NR2C1 (10g)	0.00796	96	Few cells have high AUC values (0% cells with AUC> 0.20). 99% (more than 0.75%) of AUC are zero. 	10	327	1	TRUE	
+TFAP2C_extended (16g)	0.0129	229	Few cells have high AUC values (0% cells with AUC> 0.20). 96% (more than 0.75%) of AUC are zero. 	16	328	1	FALSE	
+TFAP2C (13g)	0.0158	199	Few cells have high AUC values (0% cells with AUC> 0.20). 97% (more than 0.75%) of AUC are zero. 	13	329	1	TRUE	
+RARB_extended (37g)	0.00573	503	Few cells have high AUC values (0% cells with AUC> 0.20). 92% (more than 0.75%) of AUC are zero. 	37	330	1	FALSE	
+RARB (14g)	0.0146	358	Few cells have high AUC values (0% cells with AUC> 0.20). 94% (more than 0.75%) of AUC are zero. 	14	331	1	TRUE	
+TEAD4_extended (27g)	0.00842	197	Few cells have high AUC values (0% cells with AUC> 0.20). 96% (more than 0.75%) of AUC are zero. 	27	332	1	FALSE	
+TEAD4 (18g)	0.0125	136	Few cells have high AUC values (0% cells with AUC> 0.20). 97% (more than 0.75%) of AUC are zero. 	18	333	1	TRUE	
+FOXJ2_extended (72g)	0.0028	897	Few cells have high AUC values (0% cells with AUC> 0.20). 84% (more than 0.75%) of AUC are zero. 	72	334	1	FALSE	
+FOXJ2 (19g)	0.00467	168	Few cells have high AUC values (0% cells with AUC> 0.20). 97% (more than 0.75%) of AUC are zero. 	19	335	1	TRUE	
+ATF2_extended (58g)	0.00345	820	Few cells have high AUC values (0% cells with AUC> 0.20). 85% (more than 0.75%) of AUC are zero. 	58	336	1	TRUE	
+RFX2_extended (29g)	0.00616	344	Few cells have high AUC values (0% cells with AUC> 0.20). 94% (more than 0.75%) of AUC are zero. 	29	337	1	FALSE	
+RFX2 (26g)	0.00683	328	Few cells have high AUC values (0% cells with AUC> 0.20). 94% (more than 0.75%) of AUC are zero. 	26	338	1	TRUE	
+OVOL2_extended (31g)	0.00408	227	Few cells have high AUC values (0% cells with AUC> 0.20). 96% (more than 0.75%) of AUC are zero. 	31	339	1	FALSE	
+OVOL2 (25g)	0.00473	198	Few cells have high AUC values (0% cells with AUC> 0.20). 97% (more than 0.75%) of AUC are zero. 	25	340	1	TRUE	
+RXRB_extended (18g)	0.00536	195	Few cells have high AUC values (0% cells with AUC> 0.20). 97% (more than 0.75%) of AUC are zero. 	18	341	1	FALSE	
+RXRB (12g)	0.00797	123	Few cells have high AUC values (0% cells with AUC> 0.20). 98% (more than 0.75%) of AUC are zero. 	12	342	1	TRUE	
+CHD2_extended (15g)	0.011	415	Few cells have high AUC values (0% cells with AUC> 0.20). 93% (more than 0.75%) of AUC are zero. 	15	343	1	FALSE	
+CHD2 (11g)	0.0113	376	Few cells have high AUC values (0% cells with AUC> 0.20). 94% (more than 0.75%) of AUC are zero. 	11	344	1	TRUE	
+GATA6_extended (19g)	0.00614	305	Few cells have high AUC values (0% cells with AUC> 0.20). 95% (more than 0.75%) of AUC are zero. 	19	345	1	FALSE	
+GATA6 (15g)	0.00773	229	Few cells have high AUC values (0% cells with AUC> 0.20). 96% (more than 0.75%) of AUC are zero. 	15	346	1	TRUE	
+FOXN2_extended (13g)	0.0058	124	Few cells have high AUC values (0% cells with AUC> 0.20). 98% (more than 0.75%) of AUC are zero. 	13	347	1	FALSE	
+FOXN2 (13g)	0.0058	124	Few cells have high AUC values (0% cells with AUC> 0.20). 98% (more than 0.75%) of AUC are zero. 	13	348	1	TRUE	
+SOX6_extended (31g)	0.00647	150	Few cells have high AUC values (0% cells with AUC> 0.20). 97% (more than 0.75%) of AUC are zero. 	31	349	1	FALSE	
+SOX6 (14g)	0.00799	81	Few cells have high AUC values (0% cells with AUC> 0.20). 99% (more than 0.75%) of AUC are zero. 	14	350	1	TRUE	
+RXRA_extended (34g)	0.00509	337	Few cells have high AUC values (0% cells with AUC> 0.20). 94% (more than 0.75%) of AUC are zero. 	34	351	1	FALSE	
+RXRA (16g)	0.00643	164	Few cells have high AUC values (0% cells with AUC> 0.20). 98% (more than 0.75%) of AUC are zero. 	16	352	1	TRUE	
+DDIT3_extended (12g)	0.0123	366	Few cells have high AUC values (0% cells with AUC> 0.20). 94% (more than 0.75%) of AUC are zero. 	12	353	1	TRUE	
+MXD1_extended (52g)	0.00487	1289	Few cells have high AUC values (0% cells with AUC> 0.20). 77% (more than 0.75%) of AUC are zero. 	52	354	1	TRUE	
+NR1D1_extended (23g)	0.00726	491	Few cells have high AUC values (0% cells with AUC> 0.20). 93% (more than 0.75%) of AUC are zero. 	23	355	1	TRUE	
+ERF (19g)	0.00755	414	Few cells have high AUC values (0% cells with AUC> 0.20). 93% (more than 0.75%) of AUC are zero. 	19	356	1	TRUE	
+MAFK (40g)	0.00537	800	Few cells have high AUC values (0% cells with AUC> 0.20). 86% (more than 0.75%) of AUC are zero. 	40	357	1	TRUE	
+FOXK1_extended (20g)	0.00879	387	Few cells have high AUC values (0% cells with AUC> 0.20). 94% (more than 0.75%) of AUC are zero. 	20	358	1	TRUE	
+E2F6 (21g)	0.0136	117	Few cells have high AUC values (0% cells with AUC> 0.20). 97% (more than 0.75%) of AUC are zero. 	21	359	1	TRUE	
+MEIS1 (12g)	0.00924	95	Few cells have high AUC values (0% cells with AUC> 0.20). 98% (more than 0.75%) of AUC are zero. 	12	360	1	TRUE	
+RBBP5 (15g)	0.0117	122	Few cells have high AUC values (0% cells with AUC> 0.20). 98% (more than 0.75%) of AUC are zero. 	15	361	1	TRUE	
+THAP1 (12g)	0.015	111	Few cells have high AUC values (0% cells with AUC> 0.20). 98% (more than 0.75%) of AUC are zero. 	12	362	1	TRUE	
+ZNF217_extended (22g)	0.00611	194	Few cells have high AUC values (0% cells with AUC> 0.20). 97% (more than 0.75%) of AUC are zero. 	22	363	1	TRUE	
+SMAD5 (17g)	0.00691	191	Few cells have high AUC values (0% cells with AUC> 0.20). 97% (more than 0.75%) of AUC are zero. 	17	364	1	TRUE	
+RARG_extended (24g)	0.00643	195	Few cells have high AUC values (0% cells with AUC> 0.20). 96% (more than 0.75%) of AUC are zero. 	24	365	1	TRUE	
+PPARD_extended (18g)	0.00791	134	Few cells have high AUC values (0% cells with AUC> 0.20). 98% (more than 0.75%) of AUC are zero. 	18	366	1	TRUE	
+PBX3 (14g)	0.00677	117	Few cells have high AUC values (0% cells with AUC> 0.20). 98% (more than 0.75%) of AUC are zero. 	14	367	1	TRUE	
+RAD21 (12g)	0.00907	191	Few cells have high AUC values (0% cells with AUC> 0.20). 97% (more than 0.75%) of AUC are zero. 	12	368	1	TRUE	
+VEZF1_extended (28g)	0.00471	267	Few cells have high AUC values (0% cells with AUC> 0.20). 96% (more than 0.75%) of AUC are zero. 	28	369	1	TRUE	
+TFCP2_extended (13g)	0.00557	70	Few cells have high AUC values (0% cells with AUC> 0.20). 99% (more than 0.75%) of AUC are zero. 	13	370	1	TRUE	
+REST (14g)	0.00623	265	Few cells have high AUC values (0% cells with AUC> 0.20). 96% (more than 0.75%) of AUC are zero. 	14	371	1	TRUE	
+TFE3_extended (64g)	0.0034	629	Few cells have high AUC values (0% cells with AUC> 0.20). 87% (more than 0.75%) of AUC are zero. 	64	372	1	TRUE	
+TFEB_extended (61g)	0.00358	683	Few cells have high AUC values (0% cells with AUC> 0.20). 86% (more than 0.75%) of AUC are zero. 	61	373	1	TRUE	
+IRF2_extended (63g)	0.00409	1236	Few cells have high AUC values (0% cells with AUC> 0.20). 76% (more than 0.75%) of AUC are zero. 	63	374	1	TRUE	
+ZNF260 (28g)	0.00481	229	Few cells have high AUC values (0% cells with AUC> 0.20). 96% (more than 0.75%) of AUC are zero. 	28	375	1	TRUE	
+RELA (25g)	0.00632	495	Few cells have high AUC values (0% cells with AUC> 0.20). 92% (more than 0.75%) of AUC are zero. 	25	376	1	TRUE	
+STAU2 (62g)	0.00359	701	Few cells have high AUC values (0% cells with AUC> 0.20). 86% (more than 0.75%) of AUC are zero. 	62	377	1	TRUE	
+FOXP4_extended (35g)	0.0057	350	Few cells have high AUC values (0% cells with AUC> 0.20). 93% (more than 0.75%) of AUC are zero. 	35	378	1	TRUE	
+ELK1 (33g)	0.00418	268	Few cells have high AUC values (0% cells with AUC> 0.20). 96% (more than 0.75%) of AUC are zero. 	33	379	1	TRUE	
+PATZ1_extended (43g)	0.00327	304	Few cells have high AUC values (0% cells with AUC> 0.20). 95% (more than 0.75%) of AUC are zero. 	43	380	1	TRUE	
+FOXK2_extended (29g)	0.00434	256	Few cells have high AUC values (0% cells with AUC> 0.20). 96% (more than 0.75%) of AUC are zero. 	29	381	1	TRUE	
+RARA_extended (26g)	0.0149	290	Few cells have high AUC values (0% cells with AUC> 0.20). 91% (more than 0.75%) of AUC are zero. 	26	382	1	TRUE	
+THRB_extended (14g)	0.00797	172	Few cells have high AUC values (0% cells with AUC> 0.20). 97% (more than 0.75%) of AUC are zero. 	14	383	1	TRUE	
+RBPJ (13g)	0.0152	427	Few cells have high AUC values (0% cells with AUC> 0.20). 91% (more than 0.75%) of AUC are zero. 	13	384	1	TRUE	
+NR3C1_extended (10g)	0.00876	180	Few cells have high AUC values (0% cells with AUC> 0.20). 97% (more than 0.75%) of AUC are zero. 	10	385	1	TRUE	
+TCF3_extended (12g)	0.0125	87	Few cells have high AUC values (0% cells with AUC> 0.20). 98% (more than 0.75%) of AUC are zero. 	12	386	1	TRUE	
+SETDB1_extended (38g)	0.00351	292	Few cells have high AUC values (0% cells with AUC> 0.20). 95% (more than 0.75%) of AUC are zero. 	38	387	1	TRUE	
+FOXJ3_extended (28g)	0.00415	267	Few cells have high AUC values (0% cells with AUC> 0.20). 96% (more than 0.75%) of AUC are zero. 	28	388	1	TRUE	
+RFXANK_extended (11g)	0.00792	109	Few cells have high AUC values (0% cells with AUC> 0.20). 98% (more than 0.75%) of AUC are zero. 	11	389	1	TRUE	
+CCNT2_extended (21g)	0.0061	227	Few cells have high AUC values (0% cells with AUC> 0.20). 96% (more than 0.75%) of AUC are zero. 	21	390	1	TRUE	
+HDAC6 (12g)	0.0118	94	Few cells have high AUC values (0% cells with AUC> 0.20). 98% (more than 0.75%) of AUC are zero. 	12	391	1	TRUE	
+ZNF76_extended (78g)	0.00327	796	Few cells have high AUC values (0% cells with AUC> 0.20). 83% (more than 0.75%) of AUC are zero. 	78	392	1	FALSE	
+ZNF76 (14g)	0.00747	128	Few cells have high AUC values (0% cells with AUC> 0.20). 98% (more than 0.75%) of AUC are zero. 	14	393	1	TRUE	
+SMARCB1_extended (32g)	0.00627	856	Few cells have high AUC values (0% cells with AUC> 0.20). 82% (more than 0.75%) of AUC are zero. 	32	394	1	TRUE	
+POLD2_extended (26g)	0.00962	1633	Few cells have high AUC values (0% cells with AUC> 0.20). 	26	395	1	TRUE	
+CLOCK_extended (23g)	0.00617	256	Few cells have high AUC values (0% cells with AUC> 0.20). 96% (more than 0.75%) of AUC are zero. 	23	396	1	TRUE	
+SUZ12 (12g)	0.00757	132	Few cells have high AUC values (0% cells with AUC> 0.20). 98% (more than 0.75%) of AUC are zero. 	12	397	1	TRUE	
+SP4 (18g)	0.00541	166	Few cells have high AUC values (0% cells with AUC> 0.20). 97% (more than 0.75%) of AUC are zero. 	18	398	1	TRUE	
+TEF_extended (12g)	0.00693	119	Few cells have high AUC values (0% cells with AUC> 0.20). 98% (more than 0.75%) of AUC are zero. 	12	399	1	TRUE	
+TEAD3_extended (12g)	0.00742	179	Few cells have high AUC values (0% cells with AUC> 0.20). 97% (more than 0.75%) of AUC are zero. 	12	400	1	TRUE	
+POU2AF1_extended (11g)	0.00763	109	Few cells have high AUC values (0% cells with AUC> 0.20). 98% (more than 0.75%) of AUC are zero. 	11	401	1	TRUE	
+CREB3L4_extended (36g)	0.00396	641	Few cells have high AUC values (0% cells with AUC> 0.20). 90% (more than 0.75%) of AUC are zero. 	36	402	1	TRUE	
+SREBF2 (23g)	0.00456	162	Few cells have high AUC values (0% cells with AUC> 0.20). 98% (more than 0.75%) of AUC are zero. 	23	403	1	TRUE	
+TCF7L2_extended (15g)	0.00629	126	Few cells have high AUC values (0% cells with AUC> 0.20). 98% (more than 0.75%) of AUC are zero. 	15	404	1	TRUE	
+PKNOX1_extended (12g)	0.0075	77	Few cells have high AUC values (0% cells with AUC> 0.20). 99% (more than 0.75%) of AUC are zero. 	12	405	1	TRUE	
+KDM7A (27g)	0.00535	373	Few cells have high AUC values (0% cells with AUC> 0.20). 94% (more than 0.75%) of AUC are zero. 	27	406	1	TRUE	
+MAX (17g)	0.00868	365	Few cells have high AUC values (0% cells with AUC> 0.20). 94% (more than 0.75%) of AUC are zero. 	17	407	1	TRUE	
+MTA3_extended (26g)	0.00415	244	Few cells have high AUC values (0% cells with AUC> 0.20). 96% (more than 0.75%) of AUC are zero. 	26	408	1	TRUE	
+GLI3_extended (23g)	0.00366	166	Few cells have high AUC values (0% cells with AUC> 0.20). 98% (more than 0.75%) of AUC are zero. 	23	409	1	TRUE	
+CEBPG (13g)	0.0093	119	Few cells have high AUC values (0% cells with AUC> 0.20). 98% (more than 0.75%) of AUC are zero. 	13	410	1	TRUE	
+BCL6_extended (11g)	0.0108	97	Few cells have high AUC values (0% cells with AUC> 0.20). 98% (more than 0.75%) of AUC are zero. 	11	411	1	TRUE	
+NR2F6_extended (62g)	0.00349	859	Few cells have high AUC values (0% cells with AUC> 0.20). 83% (more than 0.75%) of AUC are zero. 	62	412	1	TRUE	
+TP53 (24g)	0.00396	257	Few cells have high AUC values (0% cells with AUC> 0.20). 96% (more than 0.75%) of AUC are zero. 	24	413	1	TRUE	
+SP2 (20g)	0.00564	146	Few cells have high AUC values (0% cells with AUC> 0.20). 98% (more than 0.75%) of AUC are zero. 	20	414	1	TRUE	
+MECP2 (38g)	0.00546	239	Few cells have high AUC values (0% cells with AUC> 0.20). 95% (more than 0.75%) of AUC are zero. 	38	415	1	TRUE	
+BHLHE41 (20g)	0.00585	223	Few cells have high AUC values (0% cells with AUC> 0.20). 96% (more than 0.75%) of AUC are zero. 	20	416	1	TRUE	
+ARNT_extended (36g)	0.00338	386	Few cells have high AUC values (0% cells with AUC> 0.20). 94% (more than 0.75%) of AUC are zero. 	36	417	1	FALSE	
+ARNT (11g)	0.00947	185	Few cells have high AUC values (0% cells with AUC> 0.20). 97% (more than 0.75%) of AUC are zero. 	11	418	1	TRUE	
+POU2F1_extended (21g)	0.00436	206	Few cells have high AUC values (0% cells with AUC> 0.20). 97% (more than 0.75%) of AUC are zero. 	21	419	1	TRUE	
+MNT_extended (66g)	0.0032	363	Few cells have high AUC values (0% cells with AUC> 0.20). 93% (more than 0.75%) of AUC are zero. 	66	420	1	FALSE	
+MNT (33g)	0.00379	231	Few cells have high AUC values (0% cells with AUC> 0.20). 97% (more than 0.75%) of AUC are zero. 	33	421	1	TRUE	
+TBP_extended (35g)	0.00546	460	Few cells have high AUC values (0% cells with AUC> 0.20). 91% (more than 0.75%) of AUC are zero. 	35	422	1	FALSE	
+TBP (33g)	0.00577	454	Few cells have high AUC values (0% cells with AUC> 0.20). 91% (more than 0.75%) of AUC are zero. 	33	423	1	TRUE	
+MGA_extended (34g)	0.00381	304	Few cells have high AUC values (0% cells with AUC> 0.20). 95% (more than 0.75%) of AUC are zero. 	34	424	1	FALSE	
+MGA (11g)	0.0064	90	Few cells have high AUC values (0% cells with AUC> 0.20). 99% (more than 0.75%) of AUC are zero. 	11	425	1	TRUE	
+HSF1_extended (12g)	0.00578	102	Few cells have high AUC values (0% cells with AUC> 0.20). 99% (more than 0.75%) of AUC are zero. 	12	426	1	FALSE	
+HSF1 (11g)	0.0063	96	Few cells have high AUC values (0% cells with AUC> 0.20). 99% (more than 0.75%) of AUC are zero. 	11	427	1	TRUE	
+TFAP4_extended (21g)	0.00456	124	Few cells have high AUC values (0% cells with AUC> 0.20). 98% (more than 0.75%) of AUC are zero. 	21	428	1	FALSE	
+TFAP4 (20g)	0.00478	117	Few cells have high AUC values (0% cells with AUC> 0.20). 98% (more than 0.75%) of AUC are zero. 	20	429	1	TRUE	
+IRF7_extended (28g)	0.0055	295	Few cells have high AUC values (0% cells with AUC> 0.20). 95% (more than 0.75%) of AUC are zero. 	28	430	1	TRUE	
+EGR4 (43g)	0.00323	425	Few cells have high AUC values (0% cells with AUC> 0.20). 93% (more than 0.75%) of AUC are zero. 	43	431	1	TRUE	
+ATF6_extended (36g)	0.00461	546	Few cells have high AUC values (0% cells with AUC> 0.20). 90% (more than 0.75%) of AUC are zero. 	36	432	1	TRUE	
+MAF_extended (15g)	0.00945	314	Few cells have high AUC values (0% cells with AUC> 0.20). 95% (more than 0.75%) of AUC are zero. 	15	433	1	TRUE	
+GMEB1_extended (36g)	0.00472	351	Few cells have high AUC values (0% cells with AUC> 0.20). 94% (more than 0.75%) of AUC are zero. 	36	434	1	FALSE	
+GMEB1 (25g)	0.00652	210	Few cells have high AUC values (0% cells with AUC> 0.20). 97% (more than 0.75%) of AUC are zero. 	25	435	1	TRUE	
